@@ -1,4 +1,11 @@
-#walrus-showing {
+.hidden {
+  display: none;
+}
+
+#toggle-2 {
+  display: none;
+}
+#toggle-3 {
   display: none;
 }
 
